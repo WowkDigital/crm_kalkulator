@@ -1,7 +1,9 @@
 # Kalkulator Usług
 
+![screenshot](/crazy-crm_screenshot.png)
+
 **Wersja:** 1.0  
-**Autor:** Twoje Imię  
+**Autor:** WowkDigital
 
 ---
 
